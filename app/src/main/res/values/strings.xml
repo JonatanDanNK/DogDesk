@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dogedex</string>
+    <string name="female">Female</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="group">Group</string>
+    <string name="male">Male</string>
+    <string name="error_show_dog">Dog not found</string>
+    <string name="dog_index_format">#%d</string>
+    <string name="dog_life_expectancy_format">%s years</string>
+    <string name="generig_error">Error dezconocido</string>
+    <string name="falled_dowload_dog_list">Erro al descragra la lista de perros</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="register">Registrar</string>
+    <string name="do_not_have_an_account">¿No tienes cuenta ?</string>
+    <string name="confirm_password">Confirmar Password</string>
+    <string name="sign_up">Confirmar</string>
+    <string name="invalid_email_error">Email invalido</string>
+    <string name="null_password_error">El password no puede esta vacio</string>
+</resources>
